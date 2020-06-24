@@ -1,3 +1,6 @@
+---
+layout: slide
+---
 Nothing here
 
 [mrtbts on scratch](https://scratch.mit.edu/users/mrtbts)
@@ -6,3 +9,10 @@ Nothing here
 Checkout my profile
 
 [next](./test.html)
+
+hello
+
+hi
+
+
+
