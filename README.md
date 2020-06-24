@@ -11,4 +11,4 @@ Or my featured game
 
 this is a random image
 
-[random image](http://u.cubeupload.com/mrtbts/25630522112838.png)
+![random image](http://u.cubeupload.com/mrtbts/25630522112838.png)
